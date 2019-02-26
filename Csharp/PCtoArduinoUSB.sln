@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCtoArduinoUSB", "C:\Users\pedro\source\repos\solo recivir datos can\solo recivir datos can\PCtoArduinoUSB.csproj", "{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Debug|x86.Build.0 = Debug|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Release|x86.ActiveCfg = Release|Any CPU
+		{D9C8BA99-024C-43ED-8CDE-63ABC288C58E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B76311-55A7-4015-848E-2E3065FC0AB7}
+	EndGlobalSection
+EndGlobal
