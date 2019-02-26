@@ -3,3 +3,10 @@ APP developed in C #
 
 
 
+The operation is very simple
+
+Step 1: Load the file located in the Arduino-project / ArduinoToPcSendAndRecibe.ino folder on your Arduino Uno / MEGA
+
+Step 2: Run the Appl located in the folder Csharp / Debug /PCtoArduinoUSB.exe
+
+The project is created with Visual Studio 2017 in c # language
